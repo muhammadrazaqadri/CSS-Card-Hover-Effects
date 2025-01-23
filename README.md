@@ -1,5 +1,5 @@
 # CSS Card Hover Effects  
-## [Watch it on YouTube]()  
+## [Watch it on YouTube](https://youtu.be/VFIDX6Dd51w)  
 
 ### CSS Card Hover Effects  
 
